@@ -36,7 +36,7 @@ const Home = () => {
               className="flex flex-col gap-5"
             >
               <p className="max-w-md font-normal text-gray-600 text-base">
-              Сайт для создания дизайна футболки с помощью искусственного интеллекта
+              Интернет портал для создания кастомного дизайна футболки с помощью искусственного интеллекта
               </p>
 
               <CustomButton 
